@@ -47,7 +47,7 @@ The dashboard provides insights into **sales performance, profitability, orders,
 ---
 
 ##  Dashboard Preview
-![Dashboard Screenshot](Screenshots/dashboard_overview.png)
+![image alt](https://github.com/rajveerpatil759-cell/Superstore-Sales-Dashboard--Excel/blob/main/sales%20dashboard%20excel.png)
 
 ---
 
