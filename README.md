@@ -1,10 +1,19 @@
-# Superstore USA Sales Dashboard (Excel)
+# Superstore Sales Dashboard (Excel)
 
 ##  Project Overview
 This project presents an **interactive Excel dashboard** built using the Superstore USA sales dataset.  
 The dashboard provides insights into **sales performance, profitability, orders, discounts, and regional trends** to support data-driven decision making.
 
 ---
+##  Objectives
+- To analyze Superstore sales data and understand overall business performance.
+- To build an interactive Excel dashboard for tracking key sales and profit metrics.
+- To identify top-performing and underperforming categories and sub-categories.
+- To evaluate regional and state-wise sales performance across the USA.
+- To analyze the relationship between discounts and profit margins.
+- To track monthly sales and profit trends over multiple years.
+- To present insights in a clear, visual, and decision-friendly format using Excel.
+
 
 ##  Tools Used
 - Microsoft Excel
